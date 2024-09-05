@@ -61,6 +61,11 @@
 		{
 			"Name": "OVRLipSync",
 			"Enabled": false
+		},
+		{
+			"Name": "LipSyncSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/60d7aba5d0a84fb291304083f04d2923"
 		}
 	]
 }
