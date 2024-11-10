@@ -59,13 +59,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OVRLipSync",
-			"Enabled": false
-		},
-		{
-			"Name": "LipSyncSystem",
+			"Name": "SpeechGenerationSystem",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/60d7aba5d0a84fb291304083f04d2923"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5873ab4f73bb4b8f867e0a7f98081d05"
 		}
 	]
 }
